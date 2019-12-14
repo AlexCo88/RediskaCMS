@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02b59795-54ed-49f7-b3d8-944cd574f78a" name="Default Changelist" comment="my first test commit2">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="02b59795-54ed-49f7-b3d8-944cd574f78a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +30,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="AlexCo88" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="RediskaCMS" />
+  </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
       <set>
@@ -46,7 +52,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -70,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576360970128</updated>
-      <workItem from="1576360974155" duration="1086000" />
+      <workItem from="1576360974155" duration="1712000" />
     </task>
     <task id="LOCAL-00001" summary="my first test commit">
       <created>1576361295544</created>
@@ -86,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576361610266</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="my first test commit3">
+      <created>1576362137082</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576362137082</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,36 +110,53 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="my first test commit" />
     <MESSAGE value="my first test commit2" />
-    <option name="LAST_COMMIT_MESSAGE" value="my first test commit2" />
+    <MESSAGE value="my first test commit3" />
+    <option name="LAST_COMMIT_MESSAGE" value="my first test commit3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="177" key="#Notifications" timestamp="1576361179987">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="177" key="#Notifications/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1576361179987" />
-    <state x="553" y="178" width="885" height="813" key="CommitChangelistDialog2" timestamp="1576362118735">
+    <state x="553" y="178" width="885" height="813" key="CommitChangelistDialog2" timestamp="1576362135889">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="553" y="178" width="885" height="813" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1576362118735" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1576361722451">
+    <state x="553" y="178" width="885" height="813" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1576362135889" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1576362558991">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1576361722451" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1576362558991" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1576362348234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1576362348234" />
+    <state x="745" y="386" key="Github.CreatePullRequestDialog" timestamp="1576362328763">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="745" y="386" key="Github.CreatePullRequestDialog/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1576362328763" />
+    <state x="830" y="412" key="Github.ShareDialog" timestamp="1576362436460">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="830" y="412" key="Github.ShareDialog/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1576362436460" />
     <state x="795" y="442" key="NewPhpFileDialog" timestamp="1576361000845">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="795" y="442" key="NewPhpFileDialog/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1576361000845" />
-    <state x="461" y="151" key="SettingsEditor" timestamp="1576361779342">
+    <state x="461" y="151" key="SettingsEditor" timestamp="1576362521964">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="151" key="SettingsEditor/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1576361779342" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1576361255847">
+    <state x="461" y="151" key="SettingsEditor/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1576362521964" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1576362540803">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1576361255847" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1576362540803" />
     <state x="769" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576361186753">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="769" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1576361186753" />
+    <state x="678" y="310" key="git4idea.merge.GitPullDialog" timestamp="1576362724913">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="678" y="310" key="git4idea.merge.GitPullDialog/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1576362724913" />
   </component>
 </project>
